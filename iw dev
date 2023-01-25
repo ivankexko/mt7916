@@ -1,0 +1,21 @@
+phy#1
+        Interface wlan1
+                ifindex 6
+                wdev 0x100000002
+                addr 00:0a:52:07:f5:b3
+                type managed
+                txpower 20.00 dBm
+                multicast TXQ:
+                        qsz-byt qsz-pkt flows   drops   marks   overlmt hashcol tx-bytes        tx-packets
+                        0       0       0       0       0       0       0       0               0
+phy#0
+        Interface wlan0
+                ifindex 7
+                wdev 0x2
+                addr 00:0a:52:07:f5:b2
+                type managed
+                channel 6 (2437 MHz), width: 40 MHz, center1: 2427 MHz
+                txpower 17.00 dBm
+                multicast TXQ:
+                        qsz-byt qsz-pkt flows   drops   marks   overlmt hashcol tx-bytes        tx-packets
+                        0       0       0       0       0       0       0       0               0
