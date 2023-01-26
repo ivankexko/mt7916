@@ -1,0 +1,6 @@
+[    0.295741] pci 0000:03:00.0: [14c3:7906] type 00 class 0x028000
+[    0.295781] pci 0000:03:00.0: reg 0x10: [mem 0xa0000000-0xa00fffff 64bit pref]
+[    0.295805] pci 0000:03:00.0: reg 0x18: [mem 0x81200000-0x81207fff 64bit]
+[    0.295828] pci 0000:03:00.0: reg 0x20: [mem 0xa0100000-0xa0100fff 64bit pref]
+[    0.295998] pci 0000:03:00.0: PME# supported from D0 D3hot D3cold
+[    0.296137] pci 0000:03:00.0: 4.000 Gb/s available PCIe bandwidth, limited by 5.0 GT/s PCIe x1 link at 0000:00:1c.2 (capable of 8.000 Gb/s with 5.0 GT/s PCIe x2 link)
