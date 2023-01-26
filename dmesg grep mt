@@ -1,0 +1,4 @@
+[    5.761104] mt7915e 0000:03:00.0: enabling device (0000 -> 0002)
+[    5.913483] mt7915e 0000:03:00.0: HW/SW Version: 0x8a108a10, Build Time: 20221031154652a
+[    5.930726] mt7915e 0000:03:00.0: WM Firmware Version: ____000000, Build Time: 20221031154713
+[    5.970136] mt7915e 0000:03:00.0: WA Firmware Version: DEV_000000, Build Time: 20221031154757
