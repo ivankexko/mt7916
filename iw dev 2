@@ -1,0 +1,24 @@
+phy#1
+        Interface wlan1
+                ifindex 6
+                wdev 0x100000001
+                addr 00:0a:52:07:f5:b3
+                ssid focus5g
+                type AP
+                channel 132 (5660 MHz), width: 20 MHz, center1: 5660 MHz
+                txpower 29.00 dBm
+                multicast TXQ:
+                        qsz-byt qsz-pkt flows   drops   marks   overlmt hashcol tx-bytes        tx-packets
+                        0       0       0       0       0       0       0       0               0
+phy#0
+        Interface wlan0
+                ifindex 5
+                wdev 0x1
+                addr 00:0a:52:07:f5:b2
+                ssid focus2g
+                type AP
+                channel 11 (2462 MHz), width: 20 MHz, center1: 2462 MHz
+                txpower 17.00 dBm
+                multicast TXQ:
+                        qsz-byt qsz-pkt flows   drops   marks   overlmt hashcol tx-bytes        tx-packets
+                        0       0       17461   0       0       0       6       2055965         18020
