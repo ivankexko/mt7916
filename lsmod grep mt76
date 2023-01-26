@@ -1,0 +1,4 @@
+mt76_connac_lib        73728  1 mt7915e
+mt76                   86016  2 mt7915e,mt76_connac_lib
+mac80211              806912  3 mt76,mt7915e,mt76_connac_lib
+cfg80211              487424  4 mt76,mt7915e,mac80211,mt76_connac_lib
